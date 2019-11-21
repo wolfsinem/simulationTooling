@@ -41,3 +41,4 @@ class finiteState():
         item = random.choice(alfabet)
         self.variables = self.executing_state["state"](self, item)
         self.run(alfabet)
+        
