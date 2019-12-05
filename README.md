@@ -6,7 +6,7 @@
 - Vending machine (Finite State Machine)
 
 ### Opdracht 3: Intro to agents and agent-tools (individueel)
-- Netlogo
+- Agent-based (Netlogo)
 
 ### Opdracht 4: Touring Machines (trio)
 
