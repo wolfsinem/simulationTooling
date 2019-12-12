@@ -120,7 +120,7 @@ amount-of-cars
 amount-of-cars
 1
 50
-7.0
+11.0
 1
 1
 NIL
@@ -152,7 +152,7 @@ start-speed
 start-speed
 0
 1
-0.3
+0.0
 0.1
 1
 NIL
@@ -168,6 +168,25 @@ Target Speed
 3
 1
 11
+
+PLOT
+366
+162
+1035
+426
+speed of targeted car
+time
+speed
+0.0
+1000.0
+0.0
+1.0
+true
+true
+"" ""
+PENS
+"target car" 1.0 1 -2674135 true "" "plot [speed] of target"
+"cars" 1.0 0 -16777216 true "" "plot min [speed] of turtles\n"
 
 @#$#@#$#@
 ## WHAT IS IT?
